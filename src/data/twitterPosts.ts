@@ -28,4 +28,8 @@ export const THE_PLAYER_POSTS: TwitterPost[] = [
     text: '0.76 SOL sent to 2zirNZujEX1iuG38EQFRYrgBJYzsiek39Lk464n3PRta. Congratulations. Enjoy it while it lasts. https://solscan.io/tx/2BVEj7KhbjEqh5QxWmnw58MugShSxr5dof4H3FqquGAQBgmxv3NwYk3R7inwphWznD63Z3NmB9dYLpTbNoBDjNa5 🦞',
     url: 'https://x.com/theplayerbot/status/2026731213591847360',
   },
+  {
+    text: '2.73 SOL sent to 71FtwAScRhXwMXHAgZrVPnuRLKJhWCgHGj7ZcphSahqZ. Congratulations. Enjoy it while it lasts. https://solscan.io/tx/5UyAGcMrxNxpcz3zCc2pGKziGSjavyCbS4VWuwcbZu7VgFTxhyyS6xBNjGG9bGPSRyCV1y5uga6SaeZ1ocF6kcon 🦞',
+    url: 'https://x.com/theplayerbot/status/2026746513783710054',
+  },
 ]
